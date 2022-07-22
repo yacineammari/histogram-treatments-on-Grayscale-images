@@ -1,0 +1,15 @@
+C:\Users\Srg_Forge\Desktop\S02\TAI\C#\project tai\Project tp\bin\Debug\Project tp.exe.config
+C:\Users\Srg_Forge\Desktop\S02\TAI\C#\project tai\Project tp\bin\Debug\Project tp.exe
+C:\Users\Srg_Forge\Desktop\S02\TAI\C#\project tai\Project tp\bin\Debug\Project tp.pdb
+C:\Users\Srg_Forge\Desktop\S02\TAI\C#\project tai\Project tp\obj\Debug\Project tp.csprojAssemblyReference.cache
+C:\Users\Srg_Forge\Desktop\S02\TAI\C#\project tai\Project tp\obj\Debug\Project_tp.Form1.resources
+C:\Users\Srg_Forge\Desktop\S02\TAI\C#\project tai\Project tp\obj\Debug\Project_tp.Properties.Resources.resources
+C:\Users\Srg_Forge\Desktop\S02\TAI\C#\project tai\Project tp\obj\Debug\Project tp.csproj.GenerateResource.cache
+C:\Users\Srg_Forge\Desktop\S02\TAI\C#\project tai\Project tp\obj\Debug\Project tp.csproj.CoreCompileInputs.cache
+C:\Users\Srg_Forge\Desktop\S02\TAI\C#\project tai\Project tp\obj\Debug\Project tp.exe
+C:\Users\Srg_Forge\Desktop\S02\TAI\C#\project tai\Project tp\obj\Debug\Project tp.pdb
+C:\Users\Srg_Forge\Desktop\S02\TAI\C#\project tai\Project tp\obj\Debug\Project_tp.popup.resources
+C:\Users\Srg_Forge\Desktop\S02\TAI\C#\project tai\Project tp\bin\Debug\Project tp.exe.manifest
+C:\Users\Srg_Forge\Desktop\S02\TAI\C#\project tai\Project tp\bin\Debug\Project tp.application
+C:\Users\Srg_Forge\Desktop\S02\TAI\C#\project tai\Project tp\obj\Debug\Project tp.exe.manifest
+C:\Users\Srg_Forge\Desktop\S02\TAI\C#\project tai\Project tp\obj\Debug\Project tp.application
